@@ -47,7 +47,7 @@ Analytical Thinking | Problem-Solving | Communication | Stakeholder Management |
 ## 🚀 Let's Connect!
 
 📧 **Email:** [nikhitapeddi99@gmail.com](mailto:nikhitapeddi99@gmail.com)  
-💼 **LinkedIn:** [Nikhita Peddi](https://www.linkedin.com/in/nikhitapeddi)  
+💼 **LinkedIn:** [Nikhita Peddi](https://www.linkedin.com/in/nikhita-peddi/)  
 
 
 🚀 *Let’s build data-driven solutions that drive real impact!*
