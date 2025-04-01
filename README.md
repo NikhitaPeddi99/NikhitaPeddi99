@@ -23,38 +23,6 @@
 ## 🔨 Tech Stack  
 
 ### **Programming Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)  
-
-### **Databases & Data Processing**  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![ETL](https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge&logo=dataiku&logoColor=white)  
-
-### **Big Data & Cloud Technologies**  
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Big Data](https://img.shields.io/badge/Big%20Data-FF5733?style=for-the-badge&logo=apache-spark&logoColor=white)  
-
-### **Business Intelligence & Data Visualization**  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-![Spotfire](https://img.shields.io/badge/Spotfire-008EAD?style=for-the-badge&logo=tibco&logoColor=white)  
-
-### **SAP MM & Enterprise Solutions**  
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)  
-![ERP](https://img.shields.io/badge/ERP-35495E?style=for-the-badge&logo=erpnext&logoColor=white)  
-
-### **Soft Skills**  
-![Problem-Solving](https://img.shields.io/badge/Problem%20Solving-FF5733?style=for-the-badge&logo=think&logoColor=white)  
-![Collaboration](https://img.shields.io/badge/Collaboration-007ACC?style=for-the-badge&logo=teamviewer&logoColor=white)  
-![Communication](https://img.shields.io/badge/Communication-FFC107?style=for-the-badge&logo=wechat&logoColor=white)  ## 🔨 Tech Stack  
-
-### **Programming Languages & Frameworks**  
 | Python | SQL | Java | JavaScript | MATLAB |
 |--------|-----|------|------------|--------|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) |
